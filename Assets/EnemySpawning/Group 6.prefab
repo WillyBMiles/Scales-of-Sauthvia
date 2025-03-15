@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7685307408236328579
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2817414754734769068}
+  - component: {fileID: 2273031030023257713}
+  m_Layer: 0
+  m_Name: Group 6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2817414754734769068
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7685307408236328579}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2273031030023257713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7685307408236328579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 212d0354a9c7e4243a051ff66ce89b38, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  possibleFormations:
+  - {fileID: 7196092594373461467, guid: 1e434dcd135fc1a4a9450d2fae9b1121, type: 3}
+  - {fileID: 4629254082693009908, guid: b0b0c89333e9cf2488cb0ed79f778ea3, type: 3}
+  - {fileID: 8001236083205431168, guid: f921fed36787bd74ea6689ccfeb01937, type: 3}
+  - {fileID: 8001236083205431168, guid: f921fed36787bd74ea6689ccfeb01937, type: 3}
+  - {fileID: 7196092594373461467, guid: 1e434dcd135fc1a4a9450d2fae9b1121, type: 3}
+  OverrideNumber: 0
+  NumberOfFormations: 4
+  spawnThisOneToo: {fileID: 4993448595072221910, guid: 1b234e00485291b45b87ba342fba150a, type: 3}
+  OverrideSpawnThisNumber: -1
+  useAll: 1
+  possibleWalkingEnemies:
+  - {fileID: 3422787203420748591, guid: 8c8294b9ccb086847ab6697998fbd146, type: 3}
+  - {fileID: 8693235554974501003, guid: a1116e4777c14eb459cc56da3c4240ed, type: 3}
+  - {fileID: 5834595436916881469, guid: b31b5e5cb4a854a41ad8d95f2ade7d8f, type: 3}
+  - {fileID: 147557110013559834, guid: 958b5b839571fd741abc615effeed6b7, type: 3}
+  maxGapBetweenWalkingEnemies: 10
+  minGapBetweenWalkingEnemies: 2
+  NumberOfWalkingEnemies: 4
+  LinkWalkingEnemiesWithFormations: 1

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{64F458E6-2B4C-4643-D569-E68DE43967E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{0FA092D5-A048-C2A7-998F-908484EFB7C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.Modules.UnityMathematics", "Sirenix.OdinInspector.Modules.UnityMathematics.csproj", "{4B808A13-5576-08D7-F594-5F68D29234EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64F458E6-2B4C-4643-D569-E68DE43967E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F458E6-2B4C-4643-D569-E68DE43967E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F458E6-2B4C-4643-D569-E68DE43967E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F458E6-2B4C-4643-D569-E68DE43967E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA092D5-A048-C2A7-998F-908484EFB7C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA092D5-A048-C2A7-998F-908484EFB7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA092D5-A048-C2A7-998F-908484EFB7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA092D5-A048-C2A7-998F-908484EFB7C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B808A13-5576-08D7-F594-5F68D29234EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B808A13-5576-08D7-F594-5F68D29234EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B808A13-5576-08D7-F594-5F68D29234EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B808A13-5576-08D7-F594-5F68D29234EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

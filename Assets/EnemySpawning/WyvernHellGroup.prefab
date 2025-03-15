@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2659919315877589546
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7765746229925359938}
+  - component: {fileID: 4715822184318916972}
+  m_Layer: 0
+  m_Name: WyvernHellGroup
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7765746229925359938
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2659919315877589546}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4715822184318916972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2659919315877589546}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 212d0354a9c7e4243a051ff66ce89b38, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  possibleFormations:
+  - {fileID: 585577874588837297, guid: 24b2acc295d805b429e2a7336c5071a3, type: 3}
+  OverrideNumber: 0
+  NumberOfFormations: 1
+  spawnThisOneToo: {fileID: 585577874588837297, guid: 24b2acc295d805b429e2a7336c5071a3, type: 3}
+  OverrideSpawnThisNumber: -1
+  useAll: 1
+  possibleWalkingEnemies:
+  - {fileID: 9123167709503552624, guid: c66a8807db81b014d8f28f04dd58cb4b, type: 3}
+  - {fileID: 9123167709503552624, guid: c66a8807db81b014d8f28f04dd58cb4b, type: 3}
+  - {fileID: 147557110013559834, guid: 958b5b839571fd741abc615effeed6b7, type: 3}
+  - {fileID: 8613589061523429379, guid: e0ff3693b9b18c34bb7f2b86398554d2, type: 3}
+  maxGapBetweenWalkingEnemies: 2
+  minGapBetweenWalkingEnemies: 1
+  NumberOfWalkingEnemies: 20
+  LinkWalkingEnemiesWithFormations: 1

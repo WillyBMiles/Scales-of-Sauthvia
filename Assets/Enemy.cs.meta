@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c4ae007354630954d820b764542f797e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hitMarker: {fileID: 629753288716049757, guid: 2fd46f2da4a0c6e48830414e9e89d831, type: 3}
+  - DeathSpawn: {fileID: 7354586792903105268, guid: aa70278d3e8afba49b961f52a1eaffcd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,728 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\willi\\Documents\\DragonGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|c:\\users\\willi\\documents\\dragongame\\assets\\abilities\\resources\\extradamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\resources\\extradamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\abilities\\resources\\icebreath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\resources\\icebreath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\formation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\formation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\groupofenemies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\groupofenemies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\abilities\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\abilities\\resources\\overwriteattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\resources\\overwriteattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\abilities\\resources\\shrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\resources\\shrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\abilities\\resources\\supersize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\resources\\supersize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\abilities\\resources\\burstofspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\resources\\burstofspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\enemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\enemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\easyanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\easyanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\abilities\\resources\\onhitspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\resources\\onhitspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\abilities\\resources\\deflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\resources\\deflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\abilities\\resources\\icefireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\resources\\icefireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\abilities\\abilitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\abilitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\abilities\\resources\\movefaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\resources\\movefaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\abilities\\resources\\dodgeprojectiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\resources\\dodgeprojectiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\abilities\\resources\\fasterprojectiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\resources\\fasterprojectiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\abilities\\resources\\bulwark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\resources\\bulwark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\togglesound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\togglesound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\audiorandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\audiorandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\abilities\\resources\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\resources\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\projectilefire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\projectilefire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\walkingenemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\walkingenemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\abilities\\resources\\evolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\resources\\evolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\hpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\hpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\abilities\\ui\\levelupbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\ui\\levelupbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\lowhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\lowhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\formationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\formationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\abilities\\realtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\abilities\\realtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\staywithground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\staywithground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\endscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\endscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|C:\\Users\\willi\\Documents\\DragonGame\\assets\\globalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F458E6-2B4C-4643-D569-E68DE43967E9}|Assembly-CSharp.csproj|solutionrelative:assets\\globalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AbilityManager.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\AbilityManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\AbilityManager.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\AbilityManager.cs",
+              "RelativeToolTip": "Assets\\Abilities\\AbilityManager.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwEoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:46:07.951Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ability.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Ability.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\Ability.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Ability.cs",
+              "RelativeToolTip": "Assets\\Abilities\\Ability.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:41:38.705Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Deflection.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\Deflection.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\Resources\\Deflection.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\Deflection.cs",
+              "RelativeToolTip": "Assets\\Abilities\\Resources\\Deflection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:36:46.437Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnemyBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\EnemyBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyBehavior.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\EnemyBehavior.cs",
+              "RelativeToolTip": "Assets\\EnemyBehavior.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAqwM0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:40:04.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BurstOfSpeed.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\BurstOfSpeed.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\Resources\\BurstOfSpeed.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\BurstOfSpeed.cs",
+              "RelativeToolTip": "Assets\\Abilities\\Resources\\BurstOfSpeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:04:59.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SuperSize.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\SuperSize.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\Resources\\SuperSize.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\SuperSize.cs",
+              "RelativeToolTip": "Assets\\Abilities\\Resources\\SuperSize.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:22:14.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IceBreath.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\IceBreath.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\Resources\\IceBreath.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\IceBreath.cs",
+              "RelativeToolTip": "Assets\\Abilities\\Resources\\IceBreath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:45:04.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OverwriteAttack.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\OverwriteAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\Resources\\OverwriteAttack.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\OverwriteAttack.cs",
+              "RelativeToolTip": "Assets\\Abilities\\Resources\\OverwriteAttack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:09:44.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\EnemySpawner.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T18:10:24.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupOfEnemies.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\GroupOfEnemies.cs",
+              "RelativeDocumentMoniker": "Assets\\GroupOfEnemies.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\GroupOfEnemies.cs",
+              "RelativeToolTip": "Assets\\GroupOfEnemies.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T23:18:49.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Formation.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Formation.cs",
+              "RelativeDocumentMoniker": "Assets\\Formation.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Formation.cs",
+              "RelativeToolTip": "Assets\\Formation.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:00:17.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExtraDamage.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\ExtraDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\Resources\\ExtraDamage.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\ExtraDamage.cs",
+              "RelativeToolTip": "Assets\\Abilities\\Resources\\ExtraDamage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:47:12.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\PlayerController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAAHgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:59:23.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EasyAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\EasyAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\EasyAnimator.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\EasyAnimator.cs",
+              "RelativeToolTip": "Assets\\EasyAnimator.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:22:02.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Projectile.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Projectile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T01:38:40.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shrink.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\Shrink.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\Resources\\Shrink.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\Shrink.cs",
+              "RelativeToolTip": "Assets\\Abilities\\Resources\\Shrink.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:52:17.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OnHitSpawn.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\OnHitSpawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\Resources\\OnHitSpawn.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\OnHitSpawn.cs",
+              "RelativeToolTip": "Assets\\Abilities\\Resources\\OnHitSpawn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T03:22:08.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Explosion.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\Explosion.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\Resources\\Explosion.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\Explosion.cs",
+              "RelativeToolTip": "Assets\\Abilities\\Resources\\Explosion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:15:13.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CameraShake.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\CameraShake.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraShake.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\CameraShake.cs",
+              "RelativeToolTip": "Assets\\CameraShake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:25:32.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ToggleSound.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\ToggleSound.cs",
+              "RelativeDocumentMoniker": "Assets\\ToggleSound.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\ToggleSound.cs",
+              "RelativeToolTip": "Assets\\ToggleSound.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:48:57.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IceFireball.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\IceFireball.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\Resources\\IceFireball.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\IceFireball.cs",
+              "RelativeToolTip": "Assets\\Abilities\\Resources\\IceFireball.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:59:46.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Tutorial.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Tutorial.cs",
+              "RelativeDocumentMoniker": "Assets\\Tutorial.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Tutorial.cs",
+              "RelativeToolTip": "Assets\\Tutorial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T03:06:32.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Character.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Character.cs",
+              "RelativeToolTip": "Assets\\Character.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:51:33.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DodgeProjectiles.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\DodgeProjectiles.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\Resources\\DodgeProjectiles.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\DodgeProjectiles.cs",
+              "RelativeToolTip": "Assets\\Abilities\\Resources\\DodgeProjectiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:29:20.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Bulwark.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\Bulwark.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\Resources\\Bulwark.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\Bulwark.cs",
+              "RelativeToolTip": "Assets\\Abilities\\Resources\\Bulwark.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:32:39.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MoveFaster.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\MoveFaster.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\Resources\\MoveFaster.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\MoveFaster.cs",
+              "RelativeToolTip": "Assets\\Abilities\\Resources\\MoveFaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:59:29.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FasterProjectiles.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\FasterProjectiles.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\Resources\\FasterProjectiles.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\FasterProjectiles.cs",
+              "RelativeToolTip": "Assets\\Abilities\\Resources\\FasterProjectiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:36:47.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WalkingEnemyBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\WalkingEnemyBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\WalkingEnemyBehavior.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\WalkingEnemyBehavior.cs",
+              "RelativeToolTip": "Assets\\WalkingEnemyBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T00:05:58.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AudioRandom.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\AudioRandom.cs",
+              "RelativeDocumentMoniker": "Assets\\AudioRandom.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\AudioRandom.cs",
+              "RelativeToolTip": "Assets\\AudioRandom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:47:13.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProjectileFire.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\ProjectileFire.cs",
+              "RelativeDocumentMoniker": "Assets\\ProjectileFire.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\ProjectileFire.cs",
+              "RelativeToolTip": "Assets\\ProjectileFire.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T22:48:32.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Evolution.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\Evolution.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\Resources\\Evolution.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\Resources\\Evolution.cs",
+              "RelativeToolTip": "Assets\\Abilities\\Resources\\Evolution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:16:54.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LevelUpButton.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\UI\\LevelUpButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\UI\\LevelUpButton.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\UI\\LevelUpButton.cs",
+              "RelativeToolTip": "Assets\\Abilities\\UI\\LevelUpButton.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA6wDIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:47:23.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RealTime.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\RealTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Abilities\\RealTime.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Abilities\\RealTime.cs",
+              "RelativeToolTip": "Assets\\Abilities\\RealTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:32:25.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HPBar.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\HPBar.cs",
+              "RelativeDocumentMoniker": "Assets\\HPBar.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\HPBar.cs",
+              "RelativeToolTip": "Assets\\HPBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T22:11:26.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\FormationBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\FormationBehavior.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\FormationBehavior.cs",
+              "RelativeToolTip": "Assets\\FormationBehavior.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAMwDYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:32:25.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LowHp.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\LowHp.cs",
+              "RelativeDocumentMoniker": "Assets\\LowHp.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\LowHp.cs",
+              "RelativeToolTip": "Assets\\LowHp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:29:23.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Extensions.cs",
+              "RelativeDocumentMoniker": "Assets\\Extensions.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Extensions.cs",
+              "RelativeToolTip": "Assets\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T18:11:59.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Player.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Player.cs",
+              "RelativeToolTip": "Assets\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:51:16.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:49:00.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Score.cs",
+              "RelativeDocumentMoniker": "Assets\\Score.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\Score.cs",
+              "RelativeToolTip": "Assets\\Score.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:18:44.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EndScreen.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\EndScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\EndScreen.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\EndScreen.cs",
+              "RelativeToolTip": "Assets\\EndScreen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:04:14.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "StartScreen.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\StartScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\StartScreen.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\StartScreen.cs",
+              "RelativeToolTip": "Assets\\StartScreen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:10:40.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StayWithGround.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\StayWithGround.cs",
+              "RelativeDocumentMoniker": "Assets\\StayWithGround.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\StayWithGround.cs",
+              "RelativeToolTip": "Assets\\StayWithGround.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T23:05:46.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GlobalController.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\GlobalController.cs",
+              "RelativeDocumentMoniker": "Assets\\GlobalController.cs",
+              "ToolTip": "C:\\Users\\willi\\Documents\\DragonGame\\Assets\\GlobalController.cs",
+              "RelativeToolTip": "Assets\\GlobalController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T00:50:23.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

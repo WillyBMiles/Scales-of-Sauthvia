@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2316137730509902026
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3095399506273237691}
+  - component: {fileID: 7917932934705512763}
+  m_Layer: 0
+  m_Name: Group 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3095399506273237691
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2316137730509902026}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7917932934705512763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2316137730509902026}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 212d0354a9c7e4243a051ff66ce89b38, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  possibleFormations:
+  - {fileID: 3857149899099462800, guid: 43af66fce5b0dd94fad7541a8597a1a2, type: 3}
+  - {fileID: 4993448595072221910, guid: 1b234e00485291b45b87ba342fba150a, type: 3}
+  - {fileID: 4993448595072221910, guid: 1b234e00485291b45b87ba342fba150a, type: 3}
+  OverrideNumber: 0
+  NumberOfFormations: 2
+  spawnThisOneToo: {fileID: 0}
+  OverrideSpawnThisNumber: -1
+  useAll: 1
+  possibleWalkingEnemies:
+  - {fileID: 3422787203420748591, guid: 8c8294b9ccb086847ab6697998fbd146, type: 3}
+  - {fileID: 8693235554974501003, guid: a1116e4777c14eb459cc56da3c4240ed, type: 3}
+  maxGapBetweenWalkingEnemies: 0
+  minGapBetweenWalkingEnemies: 0
+  NumberOfWalkingEnemies: 1
+  LinkWalkingEnemiesWithFormations: 1
